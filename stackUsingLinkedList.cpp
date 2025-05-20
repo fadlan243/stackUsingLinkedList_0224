@@ -13,4 +13,17 @@ public :
     }
 };
 
-class stack
+class stack //nama kelas
+{
+
+private : //akses modifier
+    Node *top;
+
+public : //akses modifier
+    stack()
+    {
+
+        top = NULL;
+    }
+
+    
