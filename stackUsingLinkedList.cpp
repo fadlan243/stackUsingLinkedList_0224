@@ -118,4 +118,10 @@ int main()
                     << endl;
                 }
                 break;
-            
+            case 4: 
+                cout << "Exitinf Program." << endl;
+                break;
+            default:
+                cout << "Invalid choice. Try again." << endl;
+                break;
+        
