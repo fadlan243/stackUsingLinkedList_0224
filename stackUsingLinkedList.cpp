@@ -65,4 +65,9 @@ public : //akses modifier
         }
     }
 
-   
+    bool isEmpty()
+    {
+        return top == NULL;
+    }
+};
+
