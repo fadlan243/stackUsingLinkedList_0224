@@ -72,4 +72,8 @@ public : //akses modifier
 };
 
 int main()
+{
 
+    stack stact;
+
+    
